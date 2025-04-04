@@ -48,6 +48,6 @@ To ensure a productive and welcoming environment, we expect all participants to 
 * **Be Collaborative:** Aim to build upon each other's work and insights. Acknowledge contributions.
 * **Stay On Topic:** While tangents can be interesting, please try to keep discussions focused on the project's goals. Use Discord for more open-ended chats.
 
-We formally adopt the **[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)**. Please familiarize yourself with it. Violations can be reported to the project maintainers (details on reporting mechanism TBD - will be specified here).
+We formally adopt the **[Contributor Covenant Code of Conduct]({{ '/CODE_OF_CONDUCT' | relative_url }})**. Please familiarize yourself with it. Violations can be reported to the project maintainers (details on reporting mechanism TBD - will be specified here).
 
 Thank you for considering contributing to "What Life Wants"!
