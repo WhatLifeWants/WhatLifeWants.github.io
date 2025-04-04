@@ -1,0 +1,40 @@
+# Site settings
+title: What Life Wants
+description: >- # this means to ignore newlines until "baseurl:"
+  Crowdsourcing a formal solution to AI alignment
+  by understanding life as an information-theoretic process.
+baseurl: "/WhatLifeWants" # the subpath of your site, e.g. /blog - USE YOUR REPO NAME HERE or leave blank if using a custom domain
+url: "https://WhatLifeWants.github.io" # the base hostname & protocol for your site - USE YOUR GITHUB USERNAME
+github_username: WhatLifeWants # Optional: your github username for links
+repository: WhatLifeWants/WhatLifeWants # Optional: your repository URL part
+
+# Theme (Minima is a standard, clean theme)
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Header pages (will appear in the site navigation)
+header_pages:
+  - about.md
+  - paper.md
+  - contribute.md
+
+# Optional: Plugins (add any Jekyll plugins here if needed later)
+# plugins:
+#   - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal list regardless of whether it exists views file or directory.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
