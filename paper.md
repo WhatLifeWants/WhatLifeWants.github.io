@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Paper
-permalink: /paper/
 ---
 
 ## What Life Wants: Towards an Information-Theoretic Foundation for AI Alignment
@@ -18,4 +17,4 @@ The main paper content is developed within the project's GitHub repository.
     * *(Replace `main_paper.md` with the actual filename/path if different)*
 * **Browse the full repository:** [Project Repository on GitHub](https://github.com/WhatLifeWants/WhatLifeWants.github.io/)
 
-We encourage you to read the paper critically and provide feedback via [GitHub Issues]({{ '/contribute' | relative_url }}).
+We encourage you to read the paper critically and provide feedback via [GitHub Issues]({{ '/contribute.html' | relative_url }}).
