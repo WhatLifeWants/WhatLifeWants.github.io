@@ -1,4 +1,17 @@
+# Build settings
+markdown: kramdown
+
 # Site settings
+lsi: false
+safe: true
+source: "https://github.com/WhatLifeWants/WhatLifeWants.github.io"
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 title: What Life Wants
 description: >- # this means to ignore newlines until "baseurl:"
   Crowdsourcing a formal solution to AI alignment
@@ -11,9 +24,6 @@ repository: WhatLifeWants/WhatLifeWants # Optional: your repository URL part
 
 # Theme (Minima is a standard, clean theme)
 theme: minima
-
-# Build settings
-markdown: kramdown
 
 # Header pages (will appear in the site navigation)
 header_pages:
