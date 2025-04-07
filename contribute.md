@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contribute
-permalink: /contribute/
 ---
 
 ## How You Can Contribute
