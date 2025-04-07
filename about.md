@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about.html
 ---
 
 ## What is "What Life Wants"?
