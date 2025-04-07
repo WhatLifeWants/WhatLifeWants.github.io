@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
-permalink: /code_of_conduct/
+contact: whatlifewants@tuta.com
 ---
 
 # Contributor Covenant Code of Conduct
@@ -65,8 +65,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[whatlifewants@tuta.com].
+reported to the community leaders responsible for enforcement at {{ page.contact }}.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
