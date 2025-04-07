@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contribute
+discord: https://discord.gg/D9EYEjcW
 ---
 
 ## How You Can Contribute
@@ -24,7 +25,7 @@ This project thrives on collaboration and critical engagement. Whether you're an
 
 **3. Join the Conversation (Discord):**
 
-* For more informal discussion, brainstorming, and community interaction, join our [Discord Server](https://discord.gg/D9EYEjcW).
+* For more informal discussion, brainstorming, and community interaction, join our [Discord Server]({{ page.discord }}).
     * *(Please note: Key decisions and formal critiques should still be documented via GitHub Issues/PRs for transparency and persistence).*
 
 ## Expertise Needed
