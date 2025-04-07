@@ -3,6 +3,7 @@ title: What Life Wants
 description: >- # this means to ignore newlines until "baseurl:"
   Crowdsourcing a formal solution to AI alignment
   by understanding life as an information-theoretic process.
+domain: whatlifewants.github.io
 baseurl: "/WhatLifeWants" # the subpath of your site, e.g. /blog - USE YOUR REPO NAME HERE or leave blank if using a custom domain
 url: "https://WhatLifeWants.github.io" # the base hostname & protocol for your site - USE YOUR GITHUB USERNAME
 github_username: WhatLifeWants # Optional: your github username for links
