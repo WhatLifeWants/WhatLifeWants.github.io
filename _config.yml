@@ -27,9 +27,9 @@ theme: minima
 
 # Header pages (will appear in the site navigation)
 header_pages:
-  - about.md
-  - paper.md
-  - contribute.md
+  - about.html
+  - paper.html
+  - contribute.html
 
 # Optional: Plugins (add any Jekyll plugins here if needed later)
 # plugins:
