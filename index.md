@@ -18,9 +18,9 @@ From this foundation, we hope to derive principles and perhaps even objective fu
 
 **Get Involved:**
 
-* Learn more [About the Project]({{ '/about.html' | relative_url }}).
-* Read the current draft of the [Main Paper]({{ '/paper.html' | relative_url }}).
-* Find out [How to Contribute]({{ '/contribute.html' | relative_url }}).
+* Learn more [About the Project]({{ '/about' | relative_url }}).
+* Read the current draft of the [Main Paper]({{ '/paper' | relative_url }}).
+* Find out [How to Contribute]({{ '/contribute' | relative_url }}).
 * Join the discussion on our [Discord Server](https://discord.gg/D9EYEjcW).
 * Explore the code and ongoing work on [GitHub](https://github.com/WhatLifeWants/WhatLifeWants.github.io/).
 
